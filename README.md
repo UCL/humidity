@@ -1,5 +1,5 @@
 # Scanner Humidity Plot
-A MATLAB function that can read and plot a Philips humidity log file. 
+A MATLAB function that can read and plot a Philips MRI humidity log file. 
 
 Copy the log file from the scanner (e.g. from `G:\monitoring\monitor_System_HumExamRoom.dat` ).
 
